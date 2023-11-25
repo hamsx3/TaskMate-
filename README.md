@@ -1,4 +1,5 @@
-"TaskMate: Personal Task Organizer"
+                                         "TaskMate: Personal Task Organizer"
+
 TaskMate stands out as an excellent tool for personal task management, designed to elevate user productivity by streamlining the completion of daily tasks. With this application at their disposal, users can enhance their time management skills and amplify their efficiency in tackling daily to-dos.
 
 Prerequisites:
